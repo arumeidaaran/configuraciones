@@ -6,3 +6,8 @@
 ! Homepage:
 !
 web.whatsapp.com##DIV[data-testid="intro-panel-empty-state-action-tile-group"]
+chaturbate.com##li.RoomCard.RoomCard--SrchEvlv:has(a.RoomCardThumbnail[href="/clairemillerx/"])
+chaturbate.com##li.RoomCard.RoomCard--SrchEvlv:has(a.RoomCardThumbnail[href="/hayneiko_01/"])
+chaturbate.com##li.RoomCard.RoomCard--SrchEvlv:has(a.RoomCardThumbnail[href="/hayneiko/"])
+chaturbate.com##li.RoomCard.RoomCard--SrchEvlv:has(a.RoomCardThumbnail[href="/heyheynekoneko/"])
+chaturbate.com##li.RoomCard.RoomCard--SrchEvlv:has(a.RoomCardThumbnail[href="/emmaabennett/"])
