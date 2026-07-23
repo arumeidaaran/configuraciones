@@ -1,0 +1,8 @@
+[Adblock Plus 2.0]
+! Version:
+! Title:
+! Last modified:
+! Expires: 4 days (update frequency)
+! Homepage:
+!
+web.whatsapp.com##DIV[data-testid="intro-panel-empty-state-action-tile-group"]
