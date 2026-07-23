@@ -10,4 +10,3 @@ chaturbate.com##li.RoomCard.RoomCard--SrchEvlv:has(a.RoomCardThumbnail[href="/cl
 chaturbate.com##li.RoomCard.RoomCard--SrchEvlv:has(a.RoomCardThumbnail[href="/hayneiko_01/"])
 chaturbate.com##li.RoomCard.RoomCard--SrchEvlv:has(a.RoomCardThumbnail[href="/hayneiko/"])
 chaturbate.com##li.RoomCard.RoomCard--SrchEvlv:has(a.RoomCardThumbnail[href="/heyheynekoneko/"])
-chaturbate.com##li.RoomCard.RoomCard--SrchEvlv:has(a.RoomCardThumbnail[href="/emmaabennett/"])
